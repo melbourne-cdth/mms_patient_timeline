@@ -1,0 +1,14 @@
+name: mms_ptl
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pandas
+  - pip
+  - altair=4.2.0
+  - python-dateutil
+  - nodejs
+  - jupyterlab
+  - ipywidgets
+  - widgetsnbextension
+  - markdown
