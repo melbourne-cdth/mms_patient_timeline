@@ -2,4 +2,6 @@
 
 echo "Adding extensions"
 #jupyter labextension install @jupyterlab/vega5-extension@2.1.0
-jupyter labextension install jupyter-offlinenotebook
+jupyter labextension install --py jupyter-offlinenotebook
+jupyter labextension install --py widgetsnbextension
+jupyter labextension enable --py widgetsnbextension
