@@ -2,10 +2,10 @@ name: mms_ptl
 channels:
   - conda-forge
 dependencies:
-  - python=3.9
+  - python=3.8
   - pandas
   - pip
-  - altair=4.2.0
+  - altair=4.1.0
   - python-dateutil
   - nodejs
   - jupyterlab
