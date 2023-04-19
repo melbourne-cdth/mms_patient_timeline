@@ -3,13 +3,14 @@ channels:
   - conda-forge
 dependencies:
   - python=3.8
-  - pandas
-  - pip
+  - pandas=1.4.1
+  - pip=22.0.4
   - altair=4.1.0
-  - python-dateutil
-  - nodejs
-  - jupyterlab
-  - ipywidgets
-  - widgetsnbextension
-  - jupyterlab_widgets
-  - markdown
+  - python-dateutil=2.8.2
+  - nodejs=17.8.0
+  - jupyterlab=3.3.2
+  - ipywidgets=7.7.0
+  - widgetsnbextension=3.6.0
+  - jupyterlab_widgets=1.1.0
+  - jupyter-offlinenotebook
+  - markdown=3.3.6
