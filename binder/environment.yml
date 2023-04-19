@@ -1,4 +1,4 @@
-name: mms_ptl
+name: mms_ptlv2
 channels:
   - conda-forge
 dependencies:
@@ -12,5 +12,6 @@ dependencies:
   - ipywidgets=7.7.0
   - widgetsnbextension=3.6.0
   - jupyterlab_widgets=1.1.0
+  - traitlets=5.1.1
   - jupyter-offlinenotebook
   - markdown=3.3.6
